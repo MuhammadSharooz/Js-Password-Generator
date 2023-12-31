@@ -1,1 +1,1 @@
-visit : http://disgusted-tiger.surge.sh/
+visit : https://muhammadsharooz.github.io/Js-Password-Generator/
